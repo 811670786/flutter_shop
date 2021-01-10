@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/yeshengsen/Documents/dome/app001/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/yeshengsen/Documents/dome/app001/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/integration_test/integration_test.framework/Headers/IntegrationTestPlugin.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/integration_test/integration_test.framework/Modules/module.modulemap \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/integration_test/integration_test.framework/Headers/IntegrationTestIosTest.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/integration_test/integration_test.framework/Headers/integration_test-umbrella.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/url_launcher/url_launcher.framework/Headers/FLTURLLauncherPlugin.h \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/url_launcher/url_launcher.framework/Modules/module.modulemap \
+  /Users/yeshengsen/Documents/dome/app001/build/ios/Debug-iphoneos/url_launcher/url_launcher.framework/Headers/url_launcher-umbrella.h
